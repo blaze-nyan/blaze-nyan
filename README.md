@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore an
 - 🌱 I’m currently learning advanced concepts in AI and Machine Learning.
 - 👯 I’m looking to collaborate on exciting projects that make a difference.
 - 💬 Ask me about web development, AI, and open-source contributions.
-- 📫 How to reach me: [Email](mailto:blaze.nyan@example.com)
+- 📫 How to reach me: [Email](mailto:channelpieces@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love cats and enjoy playing the guitar in my free time.
 
