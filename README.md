@@ -1,4 +1,4 @@
-# Hello there, I'm Blaze Nyan! 👋
+# Hello there, I'm Blaze! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to explore and create new things in the world of technology.
 
